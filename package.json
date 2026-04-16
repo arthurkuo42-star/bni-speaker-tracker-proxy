@@ -1,0 +1,16 @@
+{
+  "name": "bni-speaker-tracker-proxy",
+  "version": "1.0.0",
+  "description": "BNI 富鼎分會 主題演講進度追蹤 - Railway Proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
